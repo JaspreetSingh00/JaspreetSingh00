@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JaspreetSingh00
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python using Flask with C language.
+- I am currently enrolled in University of Guelph for Bachelors of Computing Major Computer Science.
